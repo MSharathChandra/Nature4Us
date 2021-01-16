@@ -1,0 +1,102 @@
+body {
+    background-color: #f8caf5 !important;
+    /* background-color: white !important; */
+}
+
+.navbar {
+    padding: 0 1rem !important;
+}
+
+.Nav {
+    width: 100%;
+    background: linear-gradient(to bottom, #33c9fc 0%, #fd98cb 100%);
+    overflow: auto;
+    margin-bottom: 2rem;
+}
+
+div a {
+    color: white!important;
+}
+
+div a.right {
+    margin: auto 1% auto auto;
+}
+
+div a:hover {
+    color: red!important;
+}
+
+.activelink {
+    color: red!important;
+}
+
+.card {
+    width: 100% !important;
+    border: 2px solid violet!important;
+}
+
+.card-block {
+    padding: .5rem!important;
+}
+
+.Firstimg {
+    background-image: url(a.jpg);
+}
+
+.Secondimg {
+    background-image: url(b.jpg);
+}
+
+.Thirdimg {
+    background-image: url(c.jpg);
+}
+
+.jumbotron {
+    padding: 2% !important;
+}
+
+.footer {
+    width: 100%;
+    height: auto;
+    color: white;
+    margin: 0%;
+    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0, 0.8);
+}
+
+div .col a:hover {
+    color: violet!important;
+    text-decoration: none;
+}
+
+.activefoot {
+    color: violet!important;
+}
+
+
+/* team */
+
+.card2 {
+    background-color: white;
+    border: 2px solid rgb(226, 81, 226);
+    width: 180px;
+    height: 270px;
+    border-radius: .5rem .5rem .5% .5%;
+    box-shadow: 2px solid grey;
+}
+
+div .card2 img {
+    border-radius: .5rem .5rem 0% 0%;
+    width: 176.5px;
+    height: 200px;
+}
+
+.card3 {
+    background-color: rgb(250, 224, 244);
+    height: 66px;
+}
+
+div h6,
+p {
+    text-align: center;
+}
