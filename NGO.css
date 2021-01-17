@@ -83,6 +83,11 @@ div .col a:hover {
     height: 270px;
     border-radius: .5rem .5rem .5% .5%;
     box-shadow: 2px solid grey;
+    transition: transform .2s;
+}
+
+.card2:hover {
+    transform: scale(1.5);
 }
 
 div .card2 img {
